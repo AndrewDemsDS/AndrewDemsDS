@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Andrew and I'm a Bachelor Student at The University of Cyprus. I am from Cyprus and am a linux user and a beginner programmer in Java and C++.</h2>
+<h2 align="left">Hi ! My name is Andrew and I'm a Bachelor Student at The University of Cyprus. I am from Cyprus and am a linux user and a beginner programmer in Java and C++.</h2>
 
 ###
 
