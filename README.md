@@ -1,50 +1,29 @@
-<h2 align="left">Hi ! My name is Andrew and I'm a Bachelor Student at The University of Cyprus. I am from Cyprus and am a linux user and a beginner programmer in Java and C++.</h2>
+### $ whoami
 
-###
+andreas demosthenous · [andreasincode.com](https://andreasincode.com)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AndrewDemsDS&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AndrewDemsDS&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+cs undergrad at the university of cyprus &nbsp;·&nbsp; software engineer intern at the [kios research and innovation center of excellence](https://www.kios.ucy.ac.cy/)
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gentoo/gentoo-plain.svg" height="30" alt="gentoo logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="30" alt="jetbrains logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="30" alt="raspberrypi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-</div>
+### currently
 
-###
+- writing python / qgis tooling for geospatial water-network modelling at kios
+- scoping an undergraduate thesis around llm serving systems
+- running a small homelab on a raspberry pi 5
 
-<div align="left">
-  <a href="https://discord.com/users/andrewdems" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="https://mail.google.com/mail/u/?authuser=andreas.demostenous243@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/andreas-demosthenous-536364213/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+### interests
 
-###
+llm systems &amp; on-device inference · linux internals · self-hosted infra · embedded &amp; iot · geospatial python
 
-<br clear="both">
+### selected projects
 
-<img src="https://raw.githubusercontent.com/AndrewDemsDS/AndrewDemsDS/output/snake.svg" alt="Snake animation" />
+- [`andreasincode`](https://github.com/AndrewDemsDS/andreasincode) — personal site
+- [`ollama-flake`](https://github.com/AndrewDemsDS/ollama-flake) — nix flake packaging ollama for reproducible local llm inference
+- [`kernel_xiaomi_lavender-4.19`](https://github.com/AndrewDemsDS/kernel_xiaomi_lavender-4.19) · [`android_device_xiaomi_lavender15`](https://github.com/AndrewDemsDS/android_device_xiaomi_lavender15) · [`android_device_xiaomi_sdm660-common`](https://github.com/AndrewDemsDS/android_device_xiaomi_sdm660-common) — downstream android device trees &amp; kernel forks
+- [`Get_My_Kernel_Format`](https://github.com/AndrewDemsDS/Get_My_Kernel_Format) — small tool to surface a kernel's format via github actions
+- a self-hosted homelab on a pi 5: nextcloud, vaultwarden, paperless-ngx, mosquitto, wireguard, behind traefik + cloudflare tunnels
 
-###
+### elsewhere
+
+[site](https://andreasincode.com) · [cv](https://andreasincode.com/cv.pdf) · [linkedin](https://linkedin.com/in/andrewdems) · [email](mailto:hello@andreasincode.com)
